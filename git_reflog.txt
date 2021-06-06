@@ -1,0 +1,18 @@
+
+michal.gorny@NXOFFICEPC19 MINGW64 /c/SystemKontroliWersjiZaliczenie ((b07284b...))
+$ git reflog
+b07284b (HEAD) HEAD@{0}: commit: deathedHeadBranch
+ea82fe0 HEAD@{1}: checkout: moving from texts to ea82fe05e497cd340ff82573548e11c77e3a8b13
+bfa72fe (tag: v1.1, origin/texts, texts) HEAD@{2}: commit: Kant rozprawa
+ea82fe0 HEAD@{3}: commit: Lorem ipusum
+46d811d (tag: v1.0, origin/personal_details, origin/main, origin/deathedHeadBranch, origin/HEAD, personal_details, main) HEAD@{4}: checkout: moving from main to texts
+46d811d (tag: v1.0, origin/personal_details, origin/main, origin/deathedHeadBranch, origin/HEAD, personal_details, main) HEAD@{5}: merge personal_details: Fast-forward
+b612cf0 HEAD@{6}: checkout: moving from personal_details to main
+46d811d (tag: v1.0, origin/personal_details, origin/main, origin/deathedHeadBranch, origin/HEAD, personal_details, main) HEAD@{7}: commit: E-mail adress
+e0f97d9 HEAD@{8}: commit: Index number
+9e43dc8 HEAD@{9}: commit: First name and last name
+b612cf0 HEAD@{10}: checkout: moving from main to personal_details
+b612cf0 HEAD@{11}: clone: from https://github.com/Leilanna/SystemKontroliWersjiZaliczenie.git
+
+michal.gorny@NXOFFICEPC19 MINGW64 /c/SystemKontroliWersjiZaliczenie ((b07284b...))
+$
